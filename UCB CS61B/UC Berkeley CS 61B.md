@@ -97,13 +97,13 @@ public class DogLauncher {
 
 ## Defining a Typical Class (Terminology)
 
-<img src="/Users/willk/Library/Mobile Documents/com~apple~CloudDocs/course_notes/typora-images/terminology.png" style="zoom:50%;" />
+<img src="../typora-images/terminology.png" style="zoom:50%;" />
 
 
 
 ## Static vs. Instance Methods
 
-<img src="/Users/willk/Library/Mobile Documents/com~apple~CloudDocs/course_notes/typora-images/61b-static.jpeg" style="zoom:50%;" />
+<img src="../typora-images/61b-static.jpeg" style="zoom:50%;" />
 
 - 无需实例化的场景用static方法
 
