@@ -1,16 +1,14 @@
-# 找同学一起刷UCB的CS61B的proj
+* My schedule:![](./typora-images/Syllabus_1.png)
+  * Stanford CS229 (ddl: 23 January)
 
-- 找同学一起刷UCB的CS61B的proj，一起探讨进步～ 
-- 还有在学习很多海外top cs课程，有兴趣的话，也可以一起来刷，后续也可以相互推荐其他好课一起刷。正在刷的课程还有：
-  - Stanford CS229
-  - Stanford CS231N
-  - Harvard STAT110
-  - MIT 18.06
-  - UCB CS285
-  - TGWK18
-  
-
-- 有兴趣的同学欢迎联系qq/vx：980803171
-- 目前的课表是这样子：(实际学习会比课表多一些，学完了也会继续滚动更新～)
-
-![](./typora-images/Syllabus_1.png)
+- Other courses:
+  - [Stanford CS330 - Deep Multi-task and Meta Learning](https://cs330.stanford.edu) (reading papers simultaneously)
+  - Reinforcement Learning: (not decided)
+    - [UCL - Multi-agent Artificial Intelligence (20/21)](https://app6ca5octe2206.pc.xiaoe-tech.com/detail/p_603db816e4b0a77c389892d3/6)
+    - [UC Berkeley - Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+  - Deep Learning:
+    - [Stanford  231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
+  - Mathematics:
+    - ~~MIT 18.06 - Linear Algebra~~
+    - [UCB CS70 - discrete Math and probability theory](https://www.eecs70.org)
+    - [UCB CS126 - Probability theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html)(more advanced)
