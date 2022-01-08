@@ -1,9 +1,3 @@
-## Reading Plans (From 9 Jan to 16 Jan):
-
-* [MULTI-STAGE INFLUENCE FUNCTION](https://openreview.net/pdf?id=r1geR1BKPr)(ddl: 10 Jan)
-* [SHAPLEY EXPLANATION NETWORKS](https://openreview.net/pdf?id=vsU0efpivw)(ddl: 13 Jan)
-* [The Shapley Value of Classifiers in Ensemble Games](https://arxiv.org/abs/2101.02153)(ddl: 16 Jan)
-
 ## Curriculum  plan:
 
 * My schedule:![](./typora-images/Syllabus_1.png)
