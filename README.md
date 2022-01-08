@@ -1,5 +1,6 @@
 * My schedule:![](./typora-images/Syllabus_1.png)
   * Stanford CS229 (ddl: 23 January)
+  * Related coding exercises and problem sets - Eevry evening
 
 - Other courses:
   - [Stanford CS330 - Deep Multi-task and Meta Learning](https://cs330.stanford.edu) (reading papers simultaneously)
