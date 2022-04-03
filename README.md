@@ -1,8 +1,12 @@
 ## Curriculum  plan:
 
-* My schedule:![](./typora-images/Syllabus_1.png)
-  * Stanford CS229 (ddl: 23 January)
-  * Related coding exercises and problem sets - Eevry evening
+* My schedule(mid-term):
+  * Learning [UCB CS70 - discrete Math and probability theory](https://www.eecs70.org) (ddl: 2022-08-01)
+* Finished courses:
+  * ~~Stanford CS229(ML)~~
+  * ~~MIT 18.06 - Linear Algebra~~
+  * ~~Dive into Deep Learning~~
+
 
 - Other courses:
   - [Stanford CS330 - Deep Multi-task and Meta Learning](https://cs330.stanford.edu) (reading papers simultaneously)
@@ -12,7 +16,6 @@
   - Deep Learning:
     - [Stanford  231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
   - Mathematics:
-    - ~~MIT 18.06 - Linear Algebra~~
     - [UCB CS70 - discrete Math and probability theory](https://www.eecs70.org)
     - [UCB CS126 - Probability theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html)(more advanced)
 
